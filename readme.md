@@ -2,7 +2,7 @@
 
 
 
-Code for paper "BPN: Bi-level Physics-Informed Neural Networks for PDE Constrained Optimization using Broyden's Hypergradients".
+Code for paper ["BPN: Bi-level Physics-Informed Neural Networks for PDE Constrained Optimization using Broyden's Hypergradients"](https://arxiv.org/abs/2209.07075).
 
 ## Requirements
 
@@ -102,6 +102,18 @@ Modify ```deepxde.data.test_points(boundary=True)```
 
 Add `capturable=True` to `deepxde/optimizers/pytorch/optimizers` .
 
+
+### Cite Bi-level PINN
+
+If you use SAM or SA-1B in your research, please use the following BibTeX entry.
+```
+@article{hao2022bi,
+  title={Bi-level physics-informed neural networks for pde constrained optimization using broyden's hypergradients},
+  author={Hao, Zhongkai and Ying, Chengyang and Su, Hang and Zhu, Jun and Song, Jian and Cheng, Ze},
+  journal={arXiv preprint arXiv:2209.07075},
+  year={2022}
+}
+```
 
 
 
