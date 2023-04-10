@@ -105,7 +105,7 @@ Add `capturable=True` to `deepxde/optimizers/pytorch/optimizers` .
 
 ### Cite Bi-level PINN
 
-If you use SAM or SA-1B in your research, please use the following BibTeX entry.
+If you use Bi-level PINN (BPN) your research, please use the following BibTeX entry.
 ```
 @article{hao2022bi,
   title={Bi-level physics-informed neural networks for pde constrained optimization using broyden's hypergradients},
@@ -119,5 +119,3 @@ If you use SAM or SA-1B in your research, please use the following BibTeX entry.
 
 
 
-
- 
